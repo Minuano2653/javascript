@@ -1,6 +1,7 @@
 # Airbnb JavaScript Style Guide() {
 Some changes 1
 Some changes 2
+
 Some changes 3
 *A mostly reasonable approach to JavaScript*
 
